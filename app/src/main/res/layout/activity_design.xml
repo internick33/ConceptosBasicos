@@ -12,6 +12,7 @@
         android:layout_height="wrap_content"
         android:text="A n d y B U"
         android:textAlignment="center"
+        android:textColor="#2196F3"
         android:textSize="60sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
