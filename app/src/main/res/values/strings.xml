@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ConceptosBasicos</string>
+    <string name="login">LogIn</string>
 </resources>
