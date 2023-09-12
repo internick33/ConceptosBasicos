@@ -13,8 +13,8 @@
         android:theme="@style/Theme.ConceptosBasicos"
         tools:targetApi="31">
         <activity
-            android:name=".BotonesActivity"
-            android:exported="true" >
+            android:name=".CheckboxActivity"
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -22,12 +22,17 @@
             </intent-filter>
         </activity>
         <activity
+            android:name=".BotonesActivity"
+            android:exported="false">
+
+        </activity>
+        <activity
             android:name=".EntradasActivity"
             android:exported="false">
         </activity>
         <activity
             android:name=".DesignActivity"
-            android:exported="false"></activity>
+            android:exported="false" />
         <activity
             android:name=".SecondActivity"
             android:exported="false" />
