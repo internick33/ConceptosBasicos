@@ -3,4 +3,7 @@
     <string name="login">LogIn</string>
     <string name="checkbox_deporte">Deporte</string>
     <string name="checkbox_videogames">Videojuegos</string>
+    <string name="radiobutton_mujer">Mujer</string>
+    <string name="radioButton_hombre">Hombre</string>
+    <string name="radioButton_indefinido">Indefinido</string>
 </resources>
