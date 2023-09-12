@@ -8,4 +8,6 @@
     <string name="radioButton_indefinido">Indefinido</string>
     <string name="button_1">Boton 1</string>
     <string name="textview_2">Textview con evento click</string>
+    <string name="btn_login">LogIn</string>
+    <string name="text_email">Email</string>
 </resources>
